@@ -1,0 +1,113 @@
+.home_container3{
+    background-color: #E5E5E5;
+    width:100vw;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sign_text{
+    
+    color: #13A6A7;
+    font-weight:bold;
+    font-size: 23px;
+    padding-top: 40px;
+    padding-left: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+
+input[type=email],input[type=password]{
+    width:80%;
+    color:#7E7F81;
+    font-size: 11px;
+    word-spacing:4px;
+    font-family: 'Poppins', sans-serif;
+   margin-bottom: 12px;
+   margin-left: 35px;
+  }
+input[type=checkbox]{
+    color:#C5C9C9;
+    font-size:9px;
+    margin-left:38px;
+}
+.check{
+    font-family: 'Poppins', sans-serif;
+    color:#7E7F81;
+    font-size:11px;
+    margin-left:5px;
+    
+}
+.center_div_sign{
+    width:350px;
+    height:650px ;
+    background-color:#fff;
+    border-radius: 12px;
+}
+.sign_in_btn{
+    background: linear-gradient(180deg, #13A6A7 33.85%, #00D3A1 100%);
+   width:80%;
+   border: none;
+   padding:10px;
+   border-radius:8px;
+   color: #fff;
+   font-size: 12px;
+}
+.btn_sign{
+text-align: center;
+margin-top: 12px;
+}
+.pass_text{
+    text-align: center;
+    font-size: 11px;
+    padding-top: 10px;
+}
+
+.line_center {
+    font-size: 1rem;
+    display: grid;
+    grid-template-columns: 1fr max-content 1fr;
+    grid-column-gap: 1.2rem;
+    align-items: center;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-top: 12px;
+}
+
+.line_center::before,
+.line_center::after {
+    content: "";
+    display: block;
+    height: 1px;
+    background-color:#C5C9C9; 
+}
+.btn-grp-1{
+    text-align: center;
+   
+}
+.icon_div{
+    font-size: 20px;
+}
+.btn_google2{
+    width:75%;
+    border:none;
+    border:1px solid #C5C9C9;
+    border-radius: 8px;
+    padding:6px;
+    background-color: #fff;
+    margin-bottom: 8px;
+    margin-top:2px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.account_text{
+    text-align: center;
+    font-size:10px;
+    color:#7E7F81;
+    font-family: 'Poppins', sans-serif;
+    margin-top:70px;
+}
+.google_text{
+    font-size:10px;
+    color:#7E7F81;
+    font-family: 'Poppins', sans-serif;
+    padding:12px;
+}

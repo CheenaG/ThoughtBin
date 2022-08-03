@@ -1,0 +1,55 @@
+ .body_color{
+    background:#13a6a7;
+    width:350px;
+    height: 650px;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home_container{
+    background-color: #E5E5E5;
+    width:100vh;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.center_div{
+    width:230px;
+    height:80px;
+    background-color: #fff;
+  border-radius: 7px;
+  display: flex;
+  position: relative;
+}
+.tb_text{
+    font-family: 'Galada', cursive;;
+    color: #87bbff;
+    font-size: 34px;
+    display: flex;
+    align-items:flex-end;
+    justify-content: center;
+}
+.img1{
+   
+    display: flex;
+    justify-content:center;
+
+
+}
+.pic1{
+    width:25px;
+    height: 20px;
+   position: relative;
+   top:10px
+
+   
+}
+.img3{
+    position: absolute;
+    left:186px;
+    top:15px;
+}
+

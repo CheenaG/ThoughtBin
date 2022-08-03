@@ -1,0 +1,83 @@
+.home_container_socialpost{
+    background-color: #E5E5E5;
+    width:100vw;
+    height: 700px;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+  
+}
+.social_div{
+    width:350px;
+    height: 650px;
+    background-color:#fff;
+    border-radius: 12px;
+}
+.main_post_div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70%;
+}
+ .cross_div{
+padding-left:5%;
+padding-top: 8%;
+} 
+
+
+.social_text{
+    
+    color:#fff;
+    font-family: 'Poppins', sans-serif;
+    font-size:10px;
+    background: linear-gradient(180deg, #13A6A7 33.85%, #00D3A1 100%);
+    padding: 20px;
+   margin-top:20%;
+    line-height:15px;
+    text-align: justify;
+    border-radius: 12px;
+    width:81%;
+   
+    
+    
+}
+.break{
+    border: 1px solid #13A6A7;
+  
+}
+
+.div_swipe{
+    margin-top: 30px;
+    
+}
+.div_swipe > p{
+
+    text-align: center;
+    font-size: 10px;
+    color: 
+    #7E7F81;
+    padding-top: 10px;
+}
+.btn-swipe {
+    border:none;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+.btn_cross{
+     border:none;
+    background-color: #fff;
+}
+
+.social _service_text{
+    color:#fff;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+    
+   
+}

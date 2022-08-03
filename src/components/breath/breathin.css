@@ -1,0 +1,26 @@
+.body_color_linear{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(180deg, #13A6A7 33.85%, #00D3A1 100%);
+    width:350px;
+    height: 650px;
+    border-radius: 12px;
+}
+.home_container2{
+    background-color: #E5E5E5;
+    width:100vw;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.next_text{
+    padding-top: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#fff;
+text-decoration: underline;
+
+}
